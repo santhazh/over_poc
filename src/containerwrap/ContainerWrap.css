@@ -1,0 +1,51 @@
+.forwOutWrap{ width:100%; float: left; background-color: #fff; margin:50px 0px; padding: 50px; border-radius: 8px; box-shadow: 0px 0px 5px rgba(0,0,0,0.2);}
+.title_h2{ width:100%; float: left; padding:5px 0px; font-size: 18px; text-transform: uppercase; color:#333; font-weight: 600; padding-bottom: 10px; border-bottom: 1px dashed #666; margin-bottom: 10px;}
+
+
+.forwOutWrap .help-block{ color: #f0ad4e; font-size: 12px;}
+.forwOutWrap .control-label{  line-height: 30px; text-align: left;}
+/* .forwOutWrap .control-label strong{  font-weight: 500;} */
+.forwOutWrap .required-symbol{  color:#f00;}
+
+.forwOutWrap  form, .forwOutWrap .list-group{ clear: both;}
+
+.forwOutWrap .ProductList { float: left; width: 101.5%; margin-left: -0.65%; flex-direction: inherit; display: inherit; }
+/* .ProductList .ProductItems{ float: left; width: 30%; margin:10px 1.65%; padding: 0px; border-radius: 0.25em;} */
+
+
+.ProductList  .productItem{ float:left; width:32%; margin:10px 0.65%; padding:0px; box-sizing:border-box; border:1px solid #ddd; border-radius: 0px !important;}
+.productItem:hover .productImg img { transform: scale(1.5);  }
+.productImg{ width:100%; float:left; overflow:hidden; display: table; text-align: center; height: 230px; padding:15px 0px;}
+.productImg a{display: table-cell; vertical-align: middle;}
+.productImg img{ max-width:100%; max-height: 200px; transition: all 0.3s ease; }
+.productCaption{ float:left; width:100%; padding:10px; box-sizing:border-box; border-top: 1px solid #eee; position: relative;}
+.priceWrap{ float:left; width:100%; position:relative; box-sizing:border-box; padding-right: 50px;}
+.offerPrice{ float:left; width:100%; position:relative; box-sizing:border-box; font-size:18px; color:#c7202c; font-weight:600;}
+.originalPrice{ float:left; width:100%; position:relative; box-sizing:border-box; font-size:12px; color:#545658;}
+.savedPrice{ color:#f00;}
+.wishListCount{ position:absolute; right:-11px; top:0px; border:1px solid #eee; padding:3px 5px; font-size:10px; color:#333; background-color:#f1f1f1;}
+.ProductName{ width:100%; float: left; padding:5px 0px; font-size: 14px; line-height: 14px; height:38px;  text-transform: uppercase; color:#333; font-weight: 500;  margin-bottom: 0px; word-wrap: break-word;}
+.ProductName a{ color:#444;}
+.ProductBrandName{ color:#aaa; font-size: 11px;}
+.productDescription{ float:left; width:100%; position:relative; box-sizing:border-box; font-size:13px; color:#545658; margin:10px 0px; line-height:16px; height:32px; overflow:hidden; }
+.reviewWrap{ float:left; position:relative; box-sizing:border-box; line-height:20px; }
+.reviewWrap i{ float:left;  color:#f39019;}
+.reviewWrap p{ font-size:12px; color:#888; float:left; padding-left:5px; margin-bottom: 0px;}
+
+.addCartBtn{ position: absolute; right:10px; bottom: 10px; background-color: #eee; padding: 10px; width: 44px; height: 44px; text-align: center; line-height: 24px; font-size: 18px; border-radius: 100%; cursor: pointer; color: #c7212b;}
+.addCartBtn:hover{ background-color:  #c7212b; color:#fff; transition: all 0.3s ease; -webkit-transition: all 0.3s ease;} 
+.btnFormWrap{ float: right; }
+/* .ProductList .ProductImg{ float: left; width: 100%; height: 240px; padding: 20px 0px; display: table; text-align: center;} 
+.ProductList .ProductImg a{ display: table-cell; vertical-align: middle;}
+.ProductList .ProductImg img{ width: 100%; max-width: 200px; } 
+.ProductList .ProductCaption{ float: left; width: 100%; padding: 10px; box-sizing: border-box;} 
+.ProductPrice{ float: left;  width:100%;  line-height:28px; font-size:24px; color:#215ac7;}
+.ProductPrice img{ height:14px; float: left; margin-top:7px;  margin-right: 3px;}
+.ProductPrice span{ float: left;}
+.ProductPrice .ProductDiscount{ float: right; font-size:16px; line-height:28px;  color:#888; font-weight:400;}
+
+.ProductDescription{ width:100%; float: left; padding:0px; font-size: 14px; line-height: 18px;  color:#888; font-weight: 500;  margin-bottom: 0px; word-wrap: break-word; }
+
+.ProductList .ProductCartBtn{ float: left; width: 100%; padding:0px 10px 10px 10px; box-sizing: border-box;} 
+.ProductCartBtn .btn-add{ font-size: 12px; float: left; margin-right: 5px; padding: 10px; cursor: pointer;}
+.ProductCartBtn .btn-add:hover{ background-color: #c7212b; color:#fff;} */

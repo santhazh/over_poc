@@ -1,0 +1,6 @@
+.HeaderWrap{ background-color: #fff; box-shadow: 0px 1px 2px rgba(0,0,0,0.2); padding: 10px 0px; box-sizing: border-box;}
+/*.logoWrap{ float: left; }*/
+.logoImg{ /*float: left;*/ height:60px;}
+.navList{ float: right;}
+.navList li { float: left; margin: 5px;}
+.navList li a{ float: left; padding: 5px 10px; font-size: 14px; color:#555; text-transform: uppercase;}
